@@ -1,0 +1,9 @@
+item_id,condition,sentence
+1,eventive,Mary saw Peter running.
+2,fact,Sophia heard that Paul sneezed.
+3,eventive,Bob felt Doris approaching.
+4,fact,Marc smelled that Ann cooked.
+99,filler,The sun is shining.
+99,filler,The rain is falling.
+99,filler,The bee is humming.
+99,filler,The flea is jumping.
